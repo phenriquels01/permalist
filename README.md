@@ -69,7 +69,6 @@ psql -U postgres -d permalist -f queries.sql
 ```
 
 **Important Notes:**
-- Ensure CSV file is in the `root` directory
 - Verify PostgreSQL user has file read permissions
 - The queries.sql file contains the database schema and seed data for initial setup. If using a custom data path, update the script accordingly.
 
