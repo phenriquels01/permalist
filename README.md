@@ -10,7 +10,6 @@ Never forget a task again! Permalist is a persistent daily organizer that helps 
 - PostgreSQL database integration
 - CRUD (Create-Read-Update-Delete) operations
 - Responsive task interface
-- Due date management system
 
 ## 🚀 Key Features
 
